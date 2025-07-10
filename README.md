@@ -10,15 +10,11 @@ A simple tool to import your Gantt charts from **[GanttPro](https://ganttpro.com
 - 🔐 Fully client-side — your data stays with you.
 - 🛠️ Automates the export process for free users.
 
-## 📸 Demo
-
-> (Insert a screenshot or GIF showing how it works)
-
 ## 🧠 How It Works
 
 1. Login to your [GanttPro](https://ganttpro.com/) account.
 2. Navigate to your Gantt chart project.
-3. Activate this tool (either via script or browser extension).
+3. Get your token.
 4. The tool scrapes the chart content and reconstructs it.
 5. Export it in your desired format.
 
